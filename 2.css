@@ -1,0 +1,36 @@
+.titulo {
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: black;
+    font-size: 40pt;
+}
+h3{
+    text-align: center;
+}
+.titulo{
+    border:2px solid #000000;
+}
+.sub{
+    border: 2px solid black;
+    text-align: center;
+    font-size: 25pt;
+    font-style: italic;
+    background-color:antiquewhite;
+
+}
+.lista{
+    border: 3px solid black;
+    color: white;
+}
+.lista{
+    display: flex;
+    justify-content: space-around;
+    font-size: 20pt;
+    background-color: black;
+}
+.teste{
+    width:30px;
+    height: 30px;
+}
